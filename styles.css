@@ -67,7 +67,7 @@ color: var(--cinza-secundario);
 }
 .secundario{
   align-items: center;
-  margin: 0 10 em;
+  margin: 0 10em;
 }
 .secundario__imagem{
   width:80%;
