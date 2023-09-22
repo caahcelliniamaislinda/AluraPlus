@@ -19,7 +19,7 @@ body {
 .principal {
   background-image: url("https://i0.wp.com/becoliterario.com/wp-content/uploads/2016/12/tiana.jpeg?fit=597%2C229&ssl=1 ");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 
 }
 
