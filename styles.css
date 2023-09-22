@@ -19,7 +19,7 @@ body {
 .principal {
   background-image: url("https://lumiere-a.akamaihd.net/v1/images/91431228_10157503535967620_321057554224381952_o_d49b0dea.jpeg?region=0,0,1800,1013");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 
 }
 
