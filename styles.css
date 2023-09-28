@@ -76,6 +76,8 @@ body {
 
 .planoFundo {
   background-image: url("https://e0.pxfuel.com/wallpapers/665/68/desktop-wallpaper-the-princess-and-the-frog-princess-tiana.jpg");
+  background-repeat: no-repeat;
+
 }
 
 .secundario {
