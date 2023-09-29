@@ -119,4 +119,6 @@ background-size: cover;
 
 .dispositivos__lista{
   display: flex;
+  text-align: center;
+  justify-content: center;
 }
