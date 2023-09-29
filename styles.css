@@ -117,6 +117,6 @@ background-size: cover;
   color: red;
 }
 
-.display__lista{
+.dispositivos__lista{
   display: flex;
 }
