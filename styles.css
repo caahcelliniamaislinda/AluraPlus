@@ -116,3 +116,7 @@ background-size: cover;
 .titulo2 {
   color: red;
 }
+
+.display__lista{
+  display: flex;
+}
