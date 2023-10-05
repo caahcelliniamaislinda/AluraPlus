@@ -93,6 +93,17 @@ background-size: cover;
 }
 
 .descriçao__titulo {
+  </section>
+
+  <section class="container planoFundo">
+      <div class="secundario">
+          <img src="img/Plataformas.png" class="container__imagem"
+              alt=" um monitor e um celular com a alura plus aberta">
+          <div class="conteiner__caixa">
+              <h2 class="descriçao__titulo">assista do seu jeito</h2>
+              <p class="descriçao__texto"> aproveite a tela grande da TV ou assita no tablet, lep top, celular e  outros aparelhos. Nossa seleção de curso nao para de crescer</p>
+          </div>
+      </div>
   font-weight: 700;
   font-size: 48px;
   color: #FFFFFF;
