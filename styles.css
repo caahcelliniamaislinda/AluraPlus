@@ -125,3 +125,7 @@ background-size: cover;
 .dispositivos__titulo{
   text-align: center;
 }
+.rodape__lista{
+  display: flex;
+  justify-content: space-between;
+}
